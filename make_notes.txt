@@ -1,0 +1,24 @@
+History
+
+“Stuart Feldman” created “Make” utility in 1976.
+“Make” was widely used those days due to its inclusion in Unix.
+“Steve Johnson” (author of YACC) came up with a problem to Feldman, that his executable accidently not being updated with the changes.
+This paved was for Feldman and then the birth of “Make”.
+“Make” even builds Linux Kernel.
+
+
+
+Useful URL's:
+===========================================
+
+https://en.wikipedia.org/wiki/Make_(software)
+
+https://www.youtube.com/watch?v=_r7i5X0rXJk
+
+https://www.youtube.com/watch?v=VCmWzYHh7Y8
+
+https://www.srcmake.com/home/make
+
+
+===========================================
+

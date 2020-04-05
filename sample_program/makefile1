@@ -1,0 +1,9 @@
+all:
+	echo "Type 'make build' to compile, \
+	and 'make clean' to remove the run file."
+build:
+	g++ main.cpp helper.cpp -o run
+doit:
+	./run
+clean:
+	rm run
